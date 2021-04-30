@@ -1,0 +1,12 @@
+/* 一个css class下面的多个元素要用分号 */
+.an-table {
+    width: 100%;
+    border: 1px solid red;
+    border-collapse:collapse; 
+}
+.an-tr {
+    border: 1px solid red;
+}
+.an-td {
+    border: 1px solid red;
+}

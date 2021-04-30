@@ -1,0 +1,41 @@
+.connect-title{
+    color: #D7DDE6;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.connect-query {
+    padding: 16px;
+    height: 96px;
+    margin: 8px 0px;
+    color: #fff;
+
+    background-color: #1E1E1E;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    /* 标准盒模型/怪异 */
+    box-sizing: border-box;
+
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-item label {
+    color: #7F8392;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.form-item select{
+    width: 152px;
+    height: 40px;
+    background-color: #000000;
+    border: 1px solid #7F8392;
+    margin-top: 8px;
+    box-sizing: border-box;
+}
+
+
